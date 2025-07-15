@@ -1,0 +1,20 @@
+{
+  "name": "claude-code-sdk-trigger",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "trigger.dev": "0.0.0-prerelease-20250715205134"
+  },
+  "dependencies": {
+    "@trigger.dev/build": "0.0.0-prerelease-20250715205134",
+    "@trigger.dev/sdk": "0.0.0-prerelease-20250715205134",
+    "@anthropic-ai/claude-code": "^1.0.31",
+    "zod": "3.23.8",
+    "ai": "4.3.16"
+  },
+  "scripts": {
+    "dev": "trigger dev",
+    "deploy": "trigger deploy",
+    "trigger:login": "trigger login"
+  }
+}
