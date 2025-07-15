@@ -57,3 +57,5 @@ curl -X POST "https://api.trigger.dev/api/v1/tasks/claude-code/trigger" \
 ```
 
 Or you could visit the Trigger.dev Dashboard and use the "Test" page to trigger the task
+
+<img width="3680" height="2382" alt="CleanShot 2025-07-15 at 22 16 19@2x" src="https://github.com/user-attachments/assets/fe06c1dc-c49c-4cfb-89f7-bd8f69a77e90" />
